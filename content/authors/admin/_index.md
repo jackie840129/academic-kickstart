@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Chih-Ting Liu
 
 # Username (this should match the folder name)
 authors:
@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D Student in EE/CS
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Media IC and System Lab, National Taiwan University
+  url: "http://media.ee.ntu.edu.tw"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include person re-identification (Re-ID).
 
 interests:
 - Artificial Intelligence
