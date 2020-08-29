@@ -93,7 +93,7 @@ email = "jackieliu@media.ee.ntu.edu.tw"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Room 431, Ming-Da Building, National Taiwan University, Taipei, Taiwan", city = "", region = "", postcode = "", country = "", country_code = ""}
+address = {street = "Room 431, Ming-Da Building, National Taiwan University, Taipei, Taiwan"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
