@@ -206,9 +206,6 @@ plugins_js  = []
   publication_view = 2
   talk_view = 2
   
-[address_formats]
-  en-us = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ' ', '']}
-  my_format = {order = ['street', 'city', 'country'], delimiters = [', ', ', ','']}
 ############################
 ## Comments
 ############################
