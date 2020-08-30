@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Chih-Ting Liu
+title: Chih-Ting (Jackie) Liu
 
 # Username (this should match the folder name)
 authors:
@@ -71,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-I am Chih-Ting Liu (劉致廷 in Chinese), a second-year Ph.D student at the [Media IC and System Lab](http://media.ee.ntu.edu.tw/), National Taiwan University (NTU). I started my Ph.D. course in July 2017 under the supervision of Prof.Yi Yang. I received the B.Eng degree in Mechanical Engineering from Shanghai Jiao Tong University in 2015. Here are my Google Scholar and CV. Served as a reviewer for CVPR, ICCV, ECCV, NIPS, AAAI, ACM MM, WACV, ACCV, TPAMI, TIP, TNNLS, TCSVT, PR.
+I am Chih-Ting Liu (劉致廷 in Chinese), a second-year Ph.D. student at the [Media IC and System Lab](http://media.ee.ntu.edu.tw/), National Taiwan University (NTU). I received the B.S. degree in Electrical Engineering (EE) in 2017 and started the M.S. program in Graduate Institute of Electronic Engineering from National Taiwan University. In Feb. 2019, I directly persued my Ph.D. degree under the supervision of [Prof. Shao-Yi Chien](http://www.ee.ntu.edu.tw/profile1.php?id=101). Here are my Google Scholar and [CV](./assets/pdf/ChihTingLiu.pdf).
