@@ -14,7 +14,8 @@ role: Ph.D. Student in EE/CS
 
 # Organizations/Affiliations
 organizations:
-- name: Media IC and System Lab,\n National Taiwan University
+- name: Media IC and System Lab,  
+National Taiwan University
   url: "http://media.ee.ntu.edu.tw"
 
 # Short bio (displayed in user profile at end of posts)
