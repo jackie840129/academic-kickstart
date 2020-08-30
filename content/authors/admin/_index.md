@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Student in EE/CS
+role: Ph.D Student in EE/CS
 
 # Organizations/Affiliations
 organizations:
@@ -23,7 +23,7 @@ bio: My research interests include person re-identification (Re-ID), Multi-Camer
 interests:
 - Deep Learning for Computer Vision
 - Image/Video Recognition and Tracking
-- Person/Vehicle Re-Identification(Re-ID)
+- Person/Vehicle Re-Identification (Re-ID)
 - Neural Network Pruning
 
 education:
@@ -71,6 +71,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am Chih-Ting Liu (劉致廷 in Chinese), a second-year Ph.D student at the [Media IC and System Lab](http://media.ee.ntu.edu.tw/), National Taiwan University (NTU). I started my Ph.D. course in July 2017 under the supervision of Prof.Yi Yang. I received the B.Eng degree in Mechanical Engineering from Shanghai Jiao Tong University in 2015. Here are my Google Scholar and CV. Served as a reviewer for CVPR, ICCV, ECCV, NIPS, AAAI, ACM MM, WACV, ACCV, TPAMI, TIP, TNNLS, TCSVT, PR.
