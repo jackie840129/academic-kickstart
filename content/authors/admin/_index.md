@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D Student in EE/CS
+role: Ph.D. Student in EE/CS
 
 # Organizations/Affiliations
 organizations:
@@ -28,13 +28,13 @@ interests:
 
 education:
   courses:
-  - course: PhD student in Electronic Enginieering
+  - course: Ph.D. student in Electronic Enginieering
     institution: National Taiwan University
     year: ""
-  - course: MS in Electronic Engineering
+  - course: M.S. in Electronic Engineering
     institution: National Taiwan University
     year: 2019
-  - course: BS in Electrical Engineering
+  - course: B.S. in Electrical Engineering
     institution: National Taiwan University
     year: 2017
 
@@ -71,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-I am Chih-Ting Liu (劉致廷 in Chinese), a second-year Ph.D. student at the [Media IC and System Lab](http://media.ee.ntu.edu.tw/), National Taiwan University (NTU). I received the B.S. degree in Electrical Engineering (EE) in 2017 and started the M.S. program in Graduate Institute of Electronic Engineering from National Taiwan University. In Feb. 2019, I directly persued my Ph.D. degree under the supervision of [Prof. Shao-Yi Chien](http://www.ee.ntu.edu.tw/profile1.php?id=101). Here are my Google Scholar and [CV](./assets/pdf/ChihTingLiu.pdf).
+I am Chih-Ting Liu (劉致廷 in Chinese), a second-year Ph.D. student at the [Media IC and System Lab](http://media.ee.ntu.edu.tw/), National Taiwan University (NTU). I received the B.S. degree in Electrical Engineering (EE) in 2017 and started the M.S. program in Graduate Institute of Electronic Engineering from National Taiwan University. In Feb. 2019, I directly persued my Ph.D. degree under the supervision of [Prof. Shao-Yi Chien](http://www.ee.ntu.edu.tw/profile1.php?id=101). Here are my Google Scholar and [CV](cv/ChihTingLiu.pdf).
