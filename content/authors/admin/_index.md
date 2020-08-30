@@ -1,6 +1,7 @@
 ---
 # Display name
-title: Chih-Ting Liu
+title: Chih-Ting Liu  
+劉致廷
 
 # Username (this should match the folder name)
 authors:
