@@ -1,7 +1,6 @@
 ---
 # Display name
-title: Chih-Ting Liu  
-劉致廷
+title: Chih-Ting Liu
 
 # Username (this should match the folder name)
 authors:
@@ -11,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D Student in EE/CS
+role: Ph.D. Student in EE/CS
 
 # Organizations/Affiliations
 organizations:
-- name: Media IC and System Lab, National Taiwan University
+- name: Media IC and System Lab,<\br>National Taiwan University
   url: "http://media.ee.ntu.edu.tw"
 
 # Short bio (displayed in user profile at end of posts)
