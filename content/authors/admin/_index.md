@@ -14,16 +14,17 @@ role: Ph.D. Student in EE/CS
 
 # Organizations/Affiliations
 organizations:
-- name: Media IC and System Lab,<\br>National Taiwan University
+- name: Media IC and System Lab,<br/>National Taiwan University
   url: "http://media.ee.ntu.edu.tw"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include person re-identification (Re-ID).
+bio: My research interests include person re-identification (Re-ID), Multi-Camera Tracking (MCT), and Neural Network Pruning.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Deep Learning for Computer Vision
+- Image / Video Recognition and Tracking System
+- Person / Vehicle Re-Identification (Re-ID)
+- Neural Network Pruning
 
 education:
   courses:
@@ -33,9 +34,9 @@ education:
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BS degree in Department of Electrical Engineering (EE)
+    institution: National Taiwan University
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
