@@ -56,7 +56,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: cv/ChihTingLiu_CV.pdf
+  link: cv/chihting-liu-cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-I am Chih-Ting Liu (劉致廷 in Chinese), a second-year Ph.D. student at the [Media IC and System Lab](http://media.ee.ntu.edu.tw/), National Taiwan University (NTU). I received the B.S. degree in Electrical Engineering (EE) in 2017 and started the M.S. program in Graduate Institute of Electronic Engineering from National Taiwan University. In Feb. 2019, I directly persued my Ph.D. degree under the supervision of [Prof. Shao-Yi Chien](http://www.ee.ntu.edu.tw/profile1.php?id=101). Here are my [Google Scholar](https://scholar.google.com.tw/citations?user=Q5CbftwAAAAJ&hl=zh-TW) and [CV](cv/ChihTingLiu_CV.pdf).
+I am Chih-Ting Liu (劉致廷 in Chinese), a second-year Ph.D. student at the [Media IC and System Lab](http://media.ee.ntu.edu.tw/), National Taiwan University (NTU). I received the B.S. degree in Electrical Engineering (EE) in 2017 and started the M.S. program in Graduate Institute of Electronic Engineering from National Taiwan University. In Feb. 2019, I directly persued my Ph.D. degree under the supervision of [Prof. Shao-Yi Chien](http://www.ee.ntu.edu.tw/profile1.php?id=101). Here are my [Google Scholar](https://scholar.google.com.tw/citations?user=Q5CbftwAAAAJ&hl=zh-TW) and [CV](cv/chihting-liu-cv.pdf).
