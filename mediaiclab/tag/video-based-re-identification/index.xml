@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Video-based Re-Identification | Chih-Ting Liu&#39;s Homepage</title>
+    <link>http://media.ee.ntu.edu.tw/personal/jackieliu/tag/video-based-re-identification/</link>
+      <atom:link href="http://media.ee.ntu.edu.tw/personal/jackieliu/tag/video-based-re-identification/index.xml" rel="self" type="application/rss+xml" />
+    <description>Video-based Re-Identification</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://media.ee.ntu.edu.tw/personal/jackieliu/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>Video-based Re-Identification</title>
+      <link>http://media.ee.ntu.edu.tw/personal/jackieliu/tag/video-based-re-identification/</link>
+    </image>
+    
+    <item>
+      <title>Spatially and Temporally Efficient Non-local Attention Network for Video-based Person Re-Identification</title>
+      <link>http://media.ee.ntu.edu.tw/personal/jackieliu/publication/bmvc19_stenvan/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://media.ee.ntu.edu.tw/personal/jackieliu/publication/bmvc19_stenvan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

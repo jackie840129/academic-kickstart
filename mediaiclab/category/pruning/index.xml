@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pruning | Chih-Ting Liu&#39;s Homepage</title>
+    <link>http://media.ee.ntu.edu.tw/personal/jackieliu/category/pruning/</link>
+      <atom:link href="http://media.ee.ntu.edu.tw/personal/jackieliu/category/pruning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pruning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 13 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://media.ee.ntu.edu.tw/personal/jackieliu/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>Pruning</title>
+      <link>http://media.ee.ntu.edu.tw/personal/jackieliu/category/pruning/</link>
+    </image>
+    
+    <item>
+      <title>Constraint-Aware Importance Estimation for Global Filter Pruning Under Multiple Resource Constraints</title>
+      <link>http://media.ee.ntu.edu.tw/personal/jackieliu/publication/cvprw20_caie/</link>
+      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://media.ee.ntu.edu.tw/personal/jackieliu/publication/cvprw20_caie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computation-Performance Optimization of Convolutional Neural Networks with Redundant Filter Removal</title>
+      <link>http://media.ee.ntu.edu.tw/personal/jackieliu/publication/tcas18_cpo/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>http://media.ee.ntu.edu.tw/personal/jackieliu/publication/tcas18_cpo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computation-Performance Optimization of Convolutional Neural Networks with Redundant Kernel Removal</title>
+      <link>http://media.ee.ntu.edu.tw/personal/jackieliu/publication/iscas18_cpo/</link>
+      <pubDate>Sun, 27 May 2018 00:00:00 +0000</pubDate>
+      <guid>http://media.ee.ntu.edu.tw/personal/jackieliu/publication/iscas18_cpo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

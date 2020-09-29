@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bo-Ying Chen | Chih-Ting Liu&#39;s Homepage</title>
+    <link>http://media.ee.ntu.edu.tw/personal/jackieliu/author/bo-ying-chen/</link>
+      <atom:link href="http://media.ee.ntu.edu.tw/personal/jackieliu/author/bo-ying-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bo-Ying Chen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 13 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://media.ee.ntu.edu.tw/personal/jackieliu/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>Bo-Ying Chen</title>
+      <link>http://media.ee.ntu.edu.tw/personal/jackieliu/author/bo-ying-chen/</link>
+    </image>
+    
+    <item>
+      <title>Constraint-Aware Importance Estimation for Global Filter Pruning Under Multiple Resource Constraints</title>
+      <link>http://media.ee.ntu.edu.tw/personal/jackieliu/publication/cvprw20_caie/</link>
+      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://media.ee.ntu.edu.tw/personal/jackieliu/publication/cvprw20_caie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supervised Joint Domain Learning for Vehicle Re-Identification</title>
+      <link>http://media.ee.ntu.edu.tw/personal/jackieliu/publication/cvprw19_jdrn/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://media.ee.ntu.edu.tw/personal/jackieliu/publication/cvprw19_jdrn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

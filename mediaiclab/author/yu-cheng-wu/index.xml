@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yu-Cheng Wu | Chih-Ting Liu&#39;s Homepage</title>
+    <link>http://media.ee.ntu.edu.tw/personal/jackieliu/author/yu-cheng-wu/</link>
+      <atom:link href="http://media.ee.ntu.edu.tw/personal/jackieliu/author/yu-cheng-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yu-Cheng Wu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 13 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://media.ee.ntu.edu.tw/personal/jackieliu/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>Yu-Cheng Wu</title>
+      <link>http://media.ee.ntu.edu.tw/personal/jackieliu/author/yu-cheng-wu/</link>
+    </image>
+    
+    <item>
+      <title>Constraint-Aware Importance Estimation for Global Filter Pruning Under Multiple Resource Constraints</title>
+      <link>http://media.ee.ntu.edu.tw/personal/jackieliu/publication/cvprw20_caie/</link>
+      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://media.ee.ntu.edu.tw/personal/jackieliu/publication/cvprw20_caie/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

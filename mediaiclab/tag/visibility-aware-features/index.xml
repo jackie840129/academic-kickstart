@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>visibility-aware features | Chih-Ting Liu&#39;s Homepage</title>
+    <link>http://media.ee.ntu.edu.tw/personal/jackieliu/tag/visibility-aware-features/</link>
+      <atom:link href="http://media.ee.ntu.edu.tw/personal/jackieliu/tag/visibility-aware-features/index.xml" rel="self" type="application/rss+xml" />
+    <description>visibility-aware features</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://media.ee.ntu.edu.tw/personal/jackieliu/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>visibility-aware features</title>
+      <link>http://media.ee.ntu.edu.tw/personal/jackieliu/tag/visibility-aware-features/</link>
+    </image>
+    
+    <item>
+      <title>Orientation-aware Vehicle Re-identification with Semantics-guided Part Attention Network</title>
+      <link>http://media.ee.ntu.edu.tw/personal/jackieliu/publication/eccv20_span/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://media.ee.ntu.edu.tw/personal/jackieliu/publication/eccv20_span/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

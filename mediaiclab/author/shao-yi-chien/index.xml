@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shao-Yi Chien | Chih-Ting Liu&#39;s Homepage</title>
+    <link>http://media.ee.ntu.edu.tw/personal/jackieliu/author/shao-yi-chien/</link>
+      <atom:link href="http://media.ee.ntu.edu.tw/personal/jackieliu/author/shao-yi-chien/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shao-Yi Chien</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://media.ee.ntu.edu.tw/personal/jackieliu/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>Shao-Yi Chien</title>
+      <link>http://media.ee.ntu.edu.tw/personal/jackieliu/author/shao-yi-chien/</link>
+    </image>
+    
+    <item>
+      <title>Orientation-aware Vehicle Re-identification with Semantics-guided Part Attention Network</title>
+      <link>http://media.ee.ntu.edu.tw/personal/jackieliu/publication/eccv20_span/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://media.ee.ntu.edu.tw/personal/jackieliu/publication/eccv20_span/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constraint-Aware Importance Estimation for Global Filter Pruning Under Multiple Resource Constraints</title>
+      <link>http://media.ee.ntu.edu.tw/personal/jackieliu/publication/cvprw20_caie/</link>
+      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://media.ee.ntu.edu.tw/personal/jackieliu/publication/cvprw20_caie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatially and Temporally Efficient Non-local Attention Network for Video-based Person Re-Identification</title>
+      <link>http://media.ee.ntu.edu.tw/personal/jackieliu/publication/bmvc19_stenvan/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://media.ee.ntu.edu.tw/personal/jackieliu/publication/bmvc19_stenvan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supervised Joint Domain Learning for Vehicle Re-Identification</title>
+      <link>http://media.ee.ntu.edu.tw/personal/jackieliu/publication/cvprw19_jdrn/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://media.ee.ntu.edu.tw/personal/jackieliu/publication/cvprw19_jdrn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computation-Performance Optimization of Convolutional Neural Networks with Redundant Filter Removal</title>
+      <link>http://media.ee.ntu.edu.tw/personal/jackieliu/publication/tcas18_cpo/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>http://media.ee.ntu.edu.tw/personal/jackieliu/publication/tcas18_cpo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vehicle Re-identification with the Space-Time Prior</title>
+      <link>http://media.ee.ntu.edu.tw/personal/jackieliu/publication/cvprw18_stp/</link>
+      <pubDate>Wed, 20 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>http://media.ee.ntu.edu.tw/personal/jackieliu/publication/cvprw18_stp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computation-Performance Optimization of Convolutional Neural Networks with Redundant Kernel Removal</title>
+      <link>http://media.ee.ntu.edu.tw/personal/jackieliu/publication/iscas18_cpo/</link>
+      <pubDate>Sun, 27 May 2018 00:00:00 +0000</pubDate>
+      <guid>http://media.ee.ntu.edu.tw/personal/jackieliu/publication/iscas18_cpo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

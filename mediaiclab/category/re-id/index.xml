@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Re-ID | Chih-Ting Liu&#39;s Homepage</title>
+    <link>http://media.ee.ntu.edu.tw/personal/jackieliu/category/re-id/</link>
+      <atom:link href="http://media.ee.ntu.edu.tw/personal/jackieliu/category/re-id/index.xml" rel="self" type="application/rss+xml" />
+    <description>Re-ID</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://media.ee.ntu.edu.tw/personal/jackieliu/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>Re-ID</title>
+      <link>http://media.ee.ntu.edu.tw/personal/jackieliu/category/re-id/</link>
+    </image>
+    
+    <item>
+      <title>Orientation-aware Vehicle Re-identification with Semantics-guided Part Attention Network</title>
+      <link>http://media.ee.ntu.edu.tw/personal/jackieliu/publication/eccv20_span/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://media.ee.ntu.edu.tw/personal/jackieliu/publication/eccv20_span/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatially and Temporally Efficient Non-local Attention Network for Video-based Person Re-Identification</title>
+      <link>http://media.ee.ntu.edu.tw/personal/jackieliu/publication/bmvc19_stenvan/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://media.ee.ntu.edu.tw/personal/jackieliu/publication/bmvc19_stenvan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supervised Joint Domain Learning for Vehicle Re-Identification</title>
+      <link>http://media.ee.ntu.edu.tw/personal/jackieliu/publication/cvprw19_jdrn/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://media.ee.ntu.edu.tw/personal/jackieliu/publication/cvprw19_jdrn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vehicle Re-identification with the Space-Time Prior</title>
+      <link>http://media.ee.ntu.edu.tw/personal/jackieliu/publication/cvprw18_stp/</link>
+      <pubDate>Wed, 20 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>http://media.ee.ntu.edu.tw/personal/jackieliu/publication/cvprw18_stp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
